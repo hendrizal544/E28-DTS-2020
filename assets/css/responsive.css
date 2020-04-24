@@ -1,9 +1,0 @@
-@media all and (max-width: 670px) {  
-  .btn {
-    width: 100%;
-  }
-  
-  input,textarea,select {
-  width:100%;
-  }
-}
